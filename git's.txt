@@ -1,0 +1,5 @@
+git init: para criar um repositório
+git add: manda os arquivos para a area de stadiam
+git status: mostra os detalhes
+git commit -m "(aqui dentro vai o titulo do seu commit)"
+git branch -M "(mudar de master para main)"
